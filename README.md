@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working in improve my skills
 - 🌱 I’m currently learning and applying all my experience
-- 👯 I’m looking to collaborate in a good project
+- 👯 I’m working in several projects
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginoffile&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginoffile&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
-  <h2>👯 Languages</h2>
+  <h2>🌐 Languages</h2>
 </div>
 <div align="center">
   <img alt="javascript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
@@ -29,7 +29,7 @@
         
 
   <div align="left">
-    <h2>👯 javascript Frameworks</h2>
+    <h2>🔧 javascript Frameworks</h2>
   </div>
   <div align="center">
    <img alt="Angular" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -38,7 +38,7 @@
   
           
   <div align="left">
-    <h2>👯 Tools and Technologies</h2>
+    <h2>🧰 Tools and Technologies</h2>
   </div>  
   <div align="center">
   <img alt="netcore" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -54,10 +54,11 @@
   <img alt="xcode" width="40" height="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
   <img alt="vscode" width="40" height="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="vscode" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img alt="vscode" width="30" height="30" src="https://andyleonard.blog/wp-content/uploads/2022/01/SSMS_Logo-300x298.jpg"/>
   </div>
           
   <div align="left">
-    <h2>👯 Operating Systems</h2>
+    <h2>🪟 Operating Systems</h2>
   </div>
   <div align="center">
   <img alt="centos8" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
