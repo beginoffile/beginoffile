@@ -63,6 +63,9 @@
   <img alt="centos8" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
   <img alt="windows" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img alt="linux" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="mac os" width="40" height="30" src="https://conceptoabc.com/wp-content/uploads/2021/05/tecno-MAC-caracterC3ADsticas.png" />
+  
+                    
   </div>
           
           
