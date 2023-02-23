@@ -76,6 +76,23 @@
   <image width="90%" height="60%" src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/javascript.jpg?tf=1200x"/>
 </div>
 
+<div align="center">
+  <video width="90%" height="60%" src=""/>
+</div>
+
+<video src="https://raw.githubusercontent.com/beginoffile/beginoffile/main/videoscreen.mp4" data-canonical-src="https://raw.githubusercontent.com/beginoffile/beginoffile/main/videoscreen.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
+
+<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+<video src="https://raw.githubusercontent.com/beginoffile/beginoffile/main/videoscreen.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+
+
+
+
 ##
 <a href="mailto:cesar_paez@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/cesar-paez-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
