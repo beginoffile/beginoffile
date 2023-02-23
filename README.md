@@ -83,10 +83,12 @@
 <video src="https://raw.githubusercontent.com/beginoffile/beginoffile/main/videoscreen.mp4" data-canonical-src="https://raw.githubusercontent.com/beginoffile/beginoffile/main/videoscreen.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
 
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+
+<video src="https://user-images.githubusercontent.com/66192407/220817463-6fd3a4e3-5a0a-4049-a11c-6585d1dd7746.mp4" loop muted autoplay>
 </video>
 
-<video src="https://raw.githubusercontent.com/beginoffile/beginoffile/main/videoscreen.mp4" controls="controls" style="max-width: 730px;">
+<video loop muted autoplay>
+  <source src="https://user-images.githubusercontent.com/66192407/220817463-6fd3a4e3-5a0a-4049-a11c-6585d1dd7746.mp4" style="position:fixed; top: 0px; left:0px; width: 100vw"></source>
 </video>
 
 
