@@ -80,12 +80,19 @@
   <video width="90%" height="60%" src=""/>
 </div>
 
+<div align="center">
+  <image width="90%" height="60%" src="https://user-images.githubusercontent.com/66192407/220830703-c4c42b61-5be3-44dd-bbac-d6962812f302.gif"/>
+</div>
 
 
+
+
+<!---
 <div align="center">
   <video loop="" muted autoplay=""  width="90%" height="60%" src="https://user-images.githubusercontent.com/66192407/220817463-6fd3a4e3-5a0a-4049-a11c-6585d1dd7746.mp4" type="video/mp4">
   </video>
 </div>
+--->
 
 <!---
 <video loop muted autoplay>
