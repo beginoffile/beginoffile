@@ -76,3 +76,6 @@
 <a href="mailto:cesar_paez@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/cesar-paez-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 
+
+![Snake animation](https://github.com/beginoffile/beginoffile/blob/output/github-contribution-grid-snake.svg)
+
