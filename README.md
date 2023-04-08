@@ -5,7 +5,7 @@
 - 👯 I’m working in several projects
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginoffile&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginoffile&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginoffile&theme=transparent&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
   <h2>🌐 Languages</h2>
